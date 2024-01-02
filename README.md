@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pabl0Han
-- 👀 I’m interested in data Aaalytics
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on knowledge transfer
 
